@@ -29,7 +29,7 @@ La metodología de este trabajo se fundamenta en un enfoque cualitativo basado e
    La información recopilada fue diseñada para ser presentada en un formato audiovisual de 10 minutos, incorporando imágenes y ejemplos visuales relevantes para facilitar la comprensión y el impacto del mensaje.
 
 ## Bibliografia 
-
+- Saraiva, T. (2016). Fascist modernist landscapes: Wheat, dams, forests, and the making of the Portuguese New State. Environmental History, 21(1), 54–75.
 - Arts, K., Van Der Wal, R., & Adams, W. (2015). Digital technology and the conservation of nature. *Ambio, 44,* 661-673. [https://doi.org/10.1007/s13280-015-0705-1](https://doi.org/10.1007/s13280-015-0705-1)
 - Rivers, T. (2003). Technology and the use of nature. *Technology in Society, 25,* 403-416. [https://doi.org/10.1016/S0160-791X(03)00043-5](https://doi.org/10.1016/S0160-791X(03)00043-5)
 - Nicholson, S., & Reynolds, J. (2020). Taking Technology Seriously: Introduction to the Special Issue on New Technologies and Global Environmental Politics. *Global Environmental Politics, 20,* 1-8. [https://doi.org/10.1162/glep_e_00576](https://doi.org/10.1162/glep_e_00576)
